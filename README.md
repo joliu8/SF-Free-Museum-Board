@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
@@ -42,7 +42,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
 
 Describe any challenges encountered while building the app.
 
-Some challenges I encountered with making the button open a new window on click and styling my project with CSS. I was able to overcome these challenges with the help of GitHub Copilot, StackOverflow, and online React/CSS guides.
+Some challenges I encountered while building this app include making the button open a new window on click and styling my project with CSS. I was able to overcome these challenges with the help of GitHub Copilot, Stack Overflow, and online React and CSS guides.
 
 ## License
 
