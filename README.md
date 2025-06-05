@@ -4,7 +4,7 @@ Submitted by: Joyce Liu
 
 This web app displays a list of San Francisco museums that offer free admission on particular days of each month. Each museum card has the name, picture, address, and description of each museum.
 
-Time spent: 4.5 hours
+Time spent: 5.5 hours
 
 ## Required Features
 
@@ -42,7 +42,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
 
 Describe any challenges encountered while building the app.
 
-Some challenges I encountered while building this app include making the button open a new window on click and styling my project with CSS. I was able to overcome these challenges with the help of GitHub Copilot, Stack Overflow, and online React and CSS guides.
+Some challenges I encountered while building this app include making the button open a new window on click and styling my project with CSS. I was able to overcome these challenges with the help of GitHub Copilot, Stack Overflow, and online React and CSS guides. I also strugged with creating a GIF because I did not realize Imgur and GitHub both have file size restrictions.
 
 ## License
 
